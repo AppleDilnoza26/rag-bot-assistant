@@ -1,0 +1,13 @@
+{
+  "name": "rag-bot-assistant",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Culinary House website with a Gemini-powered RAG assistant",
+  "main": "server/index.js",
+  "scripts": {
+    "start": "node server/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}

@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" preserveAspectRatio="xMidYMid slice">
+  <defs>
+    <radialGradient id="g" cx="50%" cy="45%" r="70%">
+      <stop offset="0" stop-color="#3a2c1e"/>
+      <stop offset="1" stop-color="#120e0b"/>
+    </radialGradient>
+  </defs>
+  <rect width="800" height="600" fill="url(#g)"/>
+  <circle cx="400" cy="300" r="150" fill="none" stroke="#d4ad6e" stroke-opacity=".35" stroke-width="3"/>
+  <circle cx="400" cy="300" r="110" fill="#d4ad6e" fill-opacity=".08"/>
+  <path d="M250 180v90c0 14 10 24 22 24v130M272 180v80M294 180v90c0 14-10 24-22 24" fill="none" stroke="#d4ad6e" stroke-opacity=".45" stroke-width="5" stroke-linecap="round"/>
+  <path d="M540 180c-20 0-30 40-30 80s14 46 30 46v118" fill="none" stroke="#d4ad6e" stroke-opacity=".45" stroke-width="5" stroke-linecap="round"/>
+  <text x="400" y="545" text-anchor="middle" font-family="Georgia, serif" font-size="26" fill="#d4ad6e" fill-opacity=".6" letter-spacing="6">CULINARY HOUSE</text>
+</svg>
